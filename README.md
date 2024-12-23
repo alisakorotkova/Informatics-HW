@@ -1,4 +1,4 @@
-# Informatics_HomeWork
+# Informatics_Homework
 ***
 <h4 align="center">
 Домашнее задание
